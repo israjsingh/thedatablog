@@ -1,2 +1,2 @@
 # thedatablog
-Codes fpr thedatablog.co
+Codes for thedatablog.co
